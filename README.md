@@ -1,16 +1,17 @@
-﻿# W30：[边缘交互](https://github.com/OS-Q/W30) 
+﻿# W30：[信息管控](https://github.com/OS-Q/W30)
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-#### 归属边缘管理：[M7](https://github.com/OS-Q/M7)
+#### 归属边缘管控：[M7](https://github.com/OS-Q/M7)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
 ## [平台描述](https://github.com/OS-Q/W30/wiki) 
 
-W30边缘交互，用于边缘体系设备内的信息发布和管理控制
+信息管控平台，用于管理边缘设备的各种信息，实现和人之间的控制交互
 
 ### [共用资源](OS-Q/)
+
 
 
 ---
@@ -48,27 +49,28 @@ W30边缘交互，用于边缘体系设备内的信息发布和管理控制
 #### D210：[NULL](https://github.com/OS-Q/D210)
 
 
-## [同级平台](https://github.com/OS-Q/M7/wiki/index) 
 
-#### W27：[信息收集](https://github.com/OS-Q/W27)
+## [同级平台](https://github.com/OS-Q/M7/wiki) 
 
-用于监控和收集各平台节点的状态数据
+#### W27：[状态管控](https://github.com/OS-Q/W27)
 
-#### W28：[构建部署](https://github.com/OS-Q/W28)
+用于管理和控制下辖所有的节点设备的生存状态
 
-用于编译相关工程，配置相应设备参数
+#### W28：[身份管控](https://github.com/OS-Q/W28)
 
-#### W29：[巡查维护](https://github.com/OS-Q/W29)
+用于管理和控制下辖所有节点的功能和初始配置
 
-用于按规则针对性巡查设备和状态监测
+#### W29：[业务管控](https://github.com/OS-Q/W29)
 
-#### -> W30：[边缘交互](https://github.com/OS-Q/W30)
+用于管理和控制下辖所有节点的功能和业务逻辑
 
-用于呈现信息和用户进行各种控制交互
+#### -> W30：[信息管控](https://github.com/OS-Q/W30)
+
+用于管理呈现边缘体系信息，完成和用户间交互
 
 ---
 
 ####  © qitas@qitas.cn
 ###  [OS-Q redefined Operation System](http://www.OS-Q.com)
-####  @ 2018-12-26
+####  @ 2019-1-14
 
