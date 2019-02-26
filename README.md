@@ -8,7 +8,7 @@
 
 ## [平台描述](https://github.com/OS-Q/W30/wiki) 
 
-信息管控平台，用于管理边缘设备的各种信息，实现和人之间的控制交互
+信息管控平台，用于管理边缘设备的各种信息输入输出，主要维护和人之间的交互关系
 
 ### [共用资源](OS-Q/)
 
@@ -22,33 +22,33 @@
 
 ## [包含设备](https://github.com/OS-Q/W30/wiki) 
 
-#### D204：[局域网络](https://github.com/OS-Q/D203)
+#### D204：[多屛显示](https://github.com/OS-Q/D204)
 
-通过局域网络内部的信息发布机制实现输入输出
+通过多屛异显输出各种专业信息界面或交互界面
 
 #### D205：[微型主机](https://github.com/OS-Q/D205)
 
-通过显示器和鼠标键盘等外设进行相应输入输出
+通过HDMI或eDP连接外部显示器和键鼠外设交互
 
-#### D206：[光学投影](https://github.com/OS-Q/D206)
+#### D206：[集成投影](https://github.com/OS-Q/D206)
 
 通过光学投影的方式实现信息的空间呈现和演化
 
-#### D207：[语音唤醒](https://github.com/OS-Q/207)
+#### D207：[语音交互](https://github.com/OS-Q/207)
 
-通过语音唤醒词唤醒语音识别系统进行语音输入
+通过智能语音系统唤醒和识别处理，通过语音输出
 
-#### D208：[手势识别](https://github.com/OS-Q/D208)
+#### D208：[手势交互](https://github.com/OS-Q/D208)
 
-通过特定的光学系统识别用户用手势表达的密码
+通过光学或传感器识别交互动作和相应执行输出
 
-#### D209：[NULL](https://github.com/OS-Q/D209)
+#### D209：[局域服务](https://github.com/OS-Q/D209)
 
+通过局域网络将信息发布在对应的感知范围内
 
+#### D210：[广域服务](https://github.com/OS-Q/D210)
 
-#### D210：[NULL](https://github.com/OS-Q/D210)
-
-
+通过光域网络将信息发布到对应的公网平台管理
 
 ## [同级平台](https://github.com/OS-Q/M7/wiki) 
 
@@ -72,5 +72,5 @@
 
 ####  © qitas@qitas.cn
 ###  [OS-Q redefined Operation System](http://www.OS-Q.com)
-####  @ 2019-1-14
+####  @ 2019-2-26
 
