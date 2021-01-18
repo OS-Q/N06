@@ -1,13 +1,10 @@
-﻿# [Framework N10](https://github.com/OS-Q/N10)
+﻿# [STC模板](https://github.com/OS-Q/W61)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q)
-#### 归属边缘体系：[EDGE-Q](https://github.com/EDGE-Q)
+### [简介](https://github.com/OS-Q/W61/wiki)
 
-### [Framework 描述](https://github.com/OS-Q/N10/wiki) 
+[STC模板](https://github.com/OS-Q/W61)
 
-[Framework N10](https://github.com/OS-Q/N10) 基于PlatformIO平台，应用[STM8 Arduino](https://github.com/tenbaht/sduino) 框架
 
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N10)
-####  2019-12-7
+### [Q = (OpenSource & OperatingSystem) ](http://www.OS-Q.com)

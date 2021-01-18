@@ -1,0 +1,9 @@
+*.hex
+*.ihx
+*.bin
+.*.swp
+build/*
+config
+*.pyc
+*.pio/
+*.vscode/
